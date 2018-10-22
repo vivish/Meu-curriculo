@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Text+Me+One');
+
+
+body{
+    background-image: url(img/works.jpeg);
+    margin: 0;
+    font-family: 'Text Me One', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: #f1f1f1;
+    display: flex;
+}
+
+footer{
+    text-align: center;
+}
+
+.alinhar-divs{
+    /* border: 1px solid black; */
+    width: 45%;
+    margin-right: 5%;
+    margin-left: 5%;    
+}
+.flex{
+    display: flex;
+}
+.separador{
+    border: 1px solid black;
+}
+.negrito{
+    font-weight: bold;
+}
+
